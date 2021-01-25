@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a0640d5a-8f8b-4e61-a85f-1c602aa7ce80.ws-us03.gitpod.io",
+    "address": "https://a20c15d8-6d42-472a-93e8-e0345330f170.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -276,7 +276,7 @@
         {
             "slug": "20-Random-colors-loop",
             "title": "20-Random-colors-loop",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Random-colors-loop",
             "translations": [
                 "es",
@@ -287,7 +287,7 @@
         {
             "slug": "21-Looping-with-FizzBuzz",
             "title": "21-Looping-with-FizzBuzz",
-            "done": false,
+            "done": true,
             "path": "exercises/21-Looping-with-FizzBuzz",
             "translations": [
                 "es",
