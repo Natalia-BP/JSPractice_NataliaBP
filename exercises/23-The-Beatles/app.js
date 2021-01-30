@@ -1,23 +1,33 @@
 function sing() {
+
+    // Variables
+    let letIt = "let it be, "
+    let final = "let it be"
+    let wordsWisdom = "words of wisdom, "
+    let answer = "there will be an answer, "
+    let estrofa ="";
+
     for (let i = 1; i <= 12; i++) {
 
         if (i == 5) {
-
-            console.log("words of wisdom,")
-
+            estrofa += wordsWisdom;
         } else if (i == 11) {
+            estrofa += answer;
 
-            console.log("there will be an answer,")
+        } 
+        else if (i == 12) {
 
-        } else {
-            console.log("let it be,")
+            estrofa += final;
+            
+        }
+        else {
+            estrofa += letIt; 
         }
     }
-
+    return estrofa;
+    // return estrofa;
 }
 
-sing()
 
-
-// // Your code above ^^^
-// console.log(sing());
+// Your code above ^^^
+console.log(sing());

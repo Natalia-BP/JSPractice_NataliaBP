@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a20c15d8-6d42-472a-93e8-e0345330f170.ws-us03.gitpod.io",
+    "address": "https://c03be6aa-9f92-40ae-8abe-dac6c761ea60.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -309,7 +309,7 @@
         {
             "slug": "23-The-Beatles",
             "title": "23-The-Beatles",
-            "done": false,
+            "done": true,
             "path": "exercises/23-The-Beatles",
             "translations": [
                 "es",
