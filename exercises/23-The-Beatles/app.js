@@ -5,7 +5,7 @@ function sing() {
     let final = "let it be"
     let wordsWisdom = "words of wisdom, "
     let answer = "there will be an answer, "
-    let estrofa ="";
+    let estrofa = "";
 
     for (let i = 1; i <= 12; i++) {
 
